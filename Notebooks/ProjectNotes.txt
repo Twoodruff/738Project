@@ -1,0 +1,20 @@
+--New ideas--
+Random Forest Classifier
+LSTM
+New feature extractors
+    sin,cos for first layers (pre-processing on input)
+Train/Test on each sample, then do some kind of voting
+Some kind of ResNet arch. 
+    Deep networks, non-RNN based
+Filter data (pre-processing)
+Counteract high-probability misclassifications 
+Hierarchical detection arch.
+    Yes/no -> how many channels
+Bidirectional RNN
+
+
+
+
+
+
+*Create a new notebook for each idea
