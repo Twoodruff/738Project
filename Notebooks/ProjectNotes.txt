@@ -1,7 +1,7 @@
 --New ideas--
 Random Forest Classifier
 LSTM
-New feature extractors
+New feature extractors (I'm working on this - Babak)
     sin,cos for first layers (pre-processing on input)
 Train/Test on each sample, then do some kind of voting
 Some kind of ResNet arch. 
