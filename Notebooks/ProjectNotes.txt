@@ -7,7 +7,7 @@ Train/Test on each sample, then do some kind of voting
 Some kind of ResNet arch. (Thomas)
     Deep networks, non-RNN based
 Filter data (pre-processing)
-Counteract high-probability misclassifications 
+Counteract high-probability misclassifications (Brian)
 Hierarchical detection arch.
     Yes/no -> how many channels
 Bidirectional RNN
