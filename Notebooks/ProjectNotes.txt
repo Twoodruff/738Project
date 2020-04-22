@@ -4,10 +4,10 @@ LSTM
 New feature extractors (I'm working on this - Babak)
     sin,cos for first layers (pre-processing on input)
 Train/Test on each sample, then do some kind of voting
-Some kind of ResNet arch. 
+Some kind of ResNet arch. (Thomas)
     Deep networks, non-RNN based
 Filter data (pre-processing)
-Counteract high-probability misclassifications 
+Counteract high-probability misclassifications (Brian)
 Hierarchical detection arch.
     Yes/no -> how many channels
 Bidirectional RNN
