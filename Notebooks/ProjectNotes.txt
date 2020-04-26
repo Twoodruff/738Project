@@ -8,7 +8,7 @@ Some kind of ResNet arch. (Thomas)
     Deep networks, non-RNN based
 Filter data (pre-processing)
 Counteract high-probability misclassifications (Brian)
-Hierarchical detection arch.
+Hierarchical detection arch. (Brian)
     Yes/no -> how many channels
 Bidirectional RNN
 
