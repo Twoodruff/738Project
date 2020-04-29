@@ -3,14 +3,17 @@ Random Forest Classifier
 LSTM
 New feature extractors (I'm working on this - Babak)
     sin,cos for first layers (pre-processing on input)
-Train/Test on each sample, then do some kind of voting
+Train/Test on each sample, then do some kind of voting (Babak)
 Some kind of ResNet arch. (Thomas)
     Deep networks, non-RNN based
 Filter data (pre-processing)
 Counteract high-probability misclassifications (Brian)
-Hierarchical detection arch.
+Hierarchical detection arch. (Brian)
     Yes/no -> how many channels
-Bidirectional RNN
+Bidirectional RNN (Hao)
+Train on each signal type (constant, parabolic)
+    try to detect which
+Overlapping chunks -> single output (Babak)
 
 
 
